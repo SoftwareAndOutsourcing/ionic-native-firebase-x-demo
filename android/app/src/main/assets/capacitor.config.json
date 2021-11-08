@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-native-firebase-x-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
