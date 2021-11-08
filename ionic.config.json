@@ -1,0 +1,7 @@
+{
+  "name": "ionic-native-firebase-x-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
